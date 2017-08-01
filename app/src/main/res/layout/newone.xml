@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:gravity="center|top"
+        android:orientation="vertical"
+        android:background="@drawable/image_5"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <TextView
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textSize="25.0sp"
+            android:textColor="#fffa03ff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="重启手机可能会解不开哦" />
+
+        <TextView
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textSize="20.0sp"
+            android:textColor="#ffff00ea"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="双清，刷机，无效" />
+
+        <TextView
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textSize="22.0sp"
+            android:textColor="#ffffed00"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="呆萌群235062104" />
+
+        <TextView
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textSize="22.0sp"
+            android:textColor="#ffe6b3fc"
+            android:background="#ff000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="呆萌QQ196601224" />
+
+        <TextView
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textSize="23.0sp"
+            android:textColor="#ff54eb4c"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="序列号解锁10元" />
+
+        <TextView
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textSize="23.0sp"
+            android:textColor="#ff58f45e"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="无序列号解20元" />
+
+        <TextView
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textSize="25.0sp"
+            android:textColor="#fffa03ff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:textSize="15.0sp"
+            android:textColor="#ffff1607"
+            android:background="@drawable/authorization_manager_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="呆萌" />
+
+        <TextView
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textSize="17.0sp"
+            android:textColor="#ffee1406"
+            android:id="@+id/tv"
+            android:layout_width="300.0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15.0dip"
+            android:layout_marginBottom="10.0dip" />
+
+        <EditText
+            android:textColor="#ff10ea00"
+            android:id="@+id/ed"
+            android:paddingLeft="12.0dip"
+            android:layout_width="200.0dip"
+            android:layout_height="35.0dip"
+            android:layout_marginBottom="12.0dip"
+            android:ems="10" />
+
+        <Button
+            android:textColor="#ff01ff46"
+            android:id="@+id/bt"
+            android:layout_width="wrap_content"
+            android:layout_height="52.0dip"
+            android:text="亲一口就能解锁哦！" />
+
+        <TextView
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="#ffee9bee"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="◢◣" />
+
+        <TextView
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="#ffe1afea"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="走别人的路"
+            android:paddingStart="0.0dip" />
+
+        <TextView
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="#ffeda8f0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="让别人无路可走" />
+    </LinearLayout>
+</LinearLayout>

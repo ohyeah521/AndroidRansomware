@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="down">#ff486ec4</color>
+    <color name="up">#ffeddee7</color>
+    <color name="stroke">#ff6b7179</color>
+</resources>
